@@ -1168,5 +1168,65 @@ export const productos = [
             "nombre": "ROLLO DE PAPEL ALUMINIO DE 12 PULGADAS X 500 PIES"
         },
         "precio": 115.0
+    },
+    {
+        "id": "K-LIFE-TABLE-80679",
+        "titulo": "MESA RECTANGULAR DE 6 PIES SÓLIDA MARCA LIFETIME",
+        "imagen": "https://kossino.com/wp-content/uploads/2025/02/80679-3-1.webp",
+        "categoria": {
+            "id": "MESAS_Y_SILLAS_LIFETIME",
+            "nombre": "MESA RECTANGULAR DE 6 PIES SÓLIDA MARCA LIFETIME"
+        },
+        "precio": 499.0
+    },
+    {
+        "id": "K-LIFE-TABLE-80471",
+        "titulo": "MESA RECTANGULAR DE 6 PIES PLEGABLE MARCA LIFETIME",
+        "imagen": "https://kossino.com/wp-content/uploads/2025/02/80471-3.webp",
+        "categoria": {
+            "id": "MESAS_Y_SILLAS_LIFETIME",
+            "nombre": "MESA RECTANGULAR DE 6 PIES PLEGABLE MARCA LIFETIME"
+        },
+        "precio": 549.0
+    },
+    {
+        "id": "K-LIFE-TABLE-81089",
+        "titulo": "MESA RECTANGULAR DE 8 PIES SÓLIDA MARCA LIFETIME",
+        "imagen": "https://kossino.com/wp-content/uploads/2025/02/81089.webp",
+        "categoria": {
+            "id": "MESAS_Y_SILLAS_LIFETIME",
+            "nombre": "MESA RECTANGULAR DE 8 PIES SÓLIDA MARCA LIFETIME"
+        },
+        "precio": 750.0
+    },
+    {
+        "id": "K-LIFE-SILLA-80739",
+        "titulo": "SILLA PLEGABLE MARCA LIFETIME",
+        "imagen": "https://kossino.com/wp-content/uploads/2025/01/80739-1-1-600x600.jpg",
+        "categoria": {
+            "id": "MESAS_Y_SILLAS_LIFETIME",
+            "nombre": "SILLA PLEGABLE MARCA LIFETIME"
+        },
+        "precio": 275.0
+    },
+    {
+        "id": "K-LIFE-TABLE-81031",
+        "titulo": "MESA COCTELERA PLEGABLE DE 33″ MARCA LIFETIME",
+        "imagen": "https://kossino.com/wp-content/uploads/2025/08/81031-1.webp",
+        "categoria": {
+            "id": "MESAS_Y_SILLAS_LIFETIME",
+            "nombre": "MESA COCTELERA PLEGABLE DE 33″ MARCA LIFETIME"
+        },
+        "precio": 375.0
+    },
+    {
+        "id": "K-LIFE-TABLE-81003",
+        "titulo": "TABLERO REDONDO DE 60″ MARCA LIFETIME",
+        "imagen": "https://kossino.com/wp-content/uploads/2025/02/81003-4.webp",
+        "categoria": {
+            "id": "MESAS_Y_SILLAS_LIFETIME",
+            "nombre": "TABLERO REDONDO DE 60″ MARCA LIFETIME"
+        },
+        "precio": 999.0
     }
 ]

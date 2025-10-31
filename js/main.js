@@ -1,6 +1,8 @@
-// PRODUCTOS
+// PRODUCTOS IMPORTADOS DESDE otro ARCHIVO JS
 
 import { productos } from "./productos.js";
+
+// PRODUCTOS EN JSON FORMAT
 
 /*
 
@@ -967,11 +969,11 @@ const productos = [
     }
 ]
 
-// TERMINAN LOS DATOS
+// FINALIZAN LOS PRODUCTOS en FORMATO JSON
 
 */
 
-
+// INICIA EL CODIGO 
 
 
 const contenedorProductos = document.querySelector("#contenedor-productos");
